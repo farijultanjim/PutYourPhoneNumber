@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  width: 100vh;
+}
+
+label {
+  color: red;
+}
+
+.slider-container {
+  text-align: center;
+  
+}
+
+#numberSlider {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#selectedNumber {
+  margin-top: 10px;
+  background-color: aqua;
+}
